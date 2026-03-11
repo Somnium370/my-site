@@ -25,7 +25,7 @@
 
   // A regular variable (not reactive — fine for static data)
   const name = "Irene Yin";
-  const tagline = "Student · Developer · Builder · Gamer";
+  const tagline = "Creator · Developer · Storyteller";
 
   // ============================================
   // FUNCTIONS — same as JavaScript, but Svelte
@@ -96,11 +96,16 @@
     <a href="/contact" class="card">
       <h3>Contact</h3>
       <p>Email: syyin@uchicago.edu
-        Phone:1234567890 </p>
+        Phone:5307616910 </p>
     </a>
-    <a href="/weather"
-      class="text-teal-600 underline text-lg">
-      Check the weather →</a>
+    <a href="/weather" class="card">
+      <h3>Weather</h3>
+      <p>Click here to get the weather</p>
+    </a>
+    <a href="/recipe" class="card">
+      <h3>Recipe</h3>
+      <p>What do you want for today?</p>
+    </a>
   </div>
 </section>
 

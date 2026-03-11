@@ -109,7 +109,9 @@
     forecast = data.daily;
     }
 </script>
-<h1 class='text-3xl font-bold mb-4'>Weather</h1>
+<h1 class='text-3xl font-bold mb-4'>
+    Weather
+</h1>
 <div class = "flex gap-3 mb_6">
     <select bind:value={city} class="p-2 border rounded">
         {#each Object.keys(cities) as c}

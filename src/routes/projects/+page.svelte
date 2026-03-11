@@ -58,7 +58,31 @@
       tags: ["JavaScript", "API", "async/await"],
       date: "February 2026",
       expanded: false
-    }
+    },
+    {
+      id: 5,
+      title: "Personal Portfolio Website",
+      description: "Developed a full-stack personal portfolio website using Svelte and Node.js. Integrated a custom API to dynamically manage and display project data, implemented responsive UI components, and deployed the site on Vercel.",
+      tags: ["Svelte", "Node.js", "JavaScript", "HTML", "CSS", "API", "Vercel"],
+      date: "March 2026",
+      expanded: false
+    },
+    {
+      id: 6,
+      title: "Fridge Magnet Collection Database",
+      description: "Designed a relational database using SQL to organize a personal fridge magnet collection. Structured tables to track attributes such as location, acquisition date, and category, and developed queries for filtering and summarizing the collection.",
+      tags: ["SQL", "Database", "Data Management"],
+      date: "December 2025",
+      expanded: false
+    },
+    {
+      id:7,
+      title: "We Can Make It Better?",
+      description: "Directed and edited a cyberpunk-themed short film exploring the societal impact of technological dependence. Used Adobe Premiere Pro and DaVinci Resolve for editing, color grading, and visual effects.",
+      tags: ["Film Production", "Premiere Pro", "DaVinci Resolve", "Video Editing"],
+      date: "June 2023",
+      expanded: false
+    },
   ]);
 
   // $derived() — count updates automatically when projects array changes

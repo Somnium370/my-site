@@ -1,6 +1,6 @@
 <script>
-    const email = "syyin@uchicago";
-  const phone = "1234567890";
+    const email = "syyin@uchicago, syin94619@gmail.com";
+  const phone = "+1 5307616910";
 </script>
 
 <h1>Contact</h1>

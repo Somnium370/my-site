@@ -140,12 +140,15 @@
   <h2>About Me</h2>
   <p>
     <!-- CUSTOMIZE: Write about yourself! 2-4 paragraphs. -->
-    Write a few paragraphs about yourself here. What are you studying?
-    What interests you? What do you want to do after graduation?
+   Hi! I'm Siyuan Yin, a Uchicago student majoring in Digital Humanities. 
+   My work sits at the intersection of technology, storytelling, and human experience. 
+   I enjoy exploring how digital tools—from web development to data systems—can be used to create meaningful content and interactive experiences.
   </p>
   <p>
-    This page is a great place to share your story, your goals,
-    and what makes you unique. Make it personal!
+    I have experience in web development, media production, and project coordination, 
+    and I enjoy building things that are both functional and creative. After graduation, 
+    I hope to continue working on projects that combine technology, design, and people-centered 
+    thinking—whether through digital media, product development, or creative technology.
   </p>
 </section>
 
